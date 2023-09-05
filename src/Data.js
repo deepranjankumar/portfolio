@@ -1,0 +1,93 @@
+const Data=[
+    {
+        img:'lunch/eating.jpg',
+        title:'Lunch',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:450,
+        tag:'price may vary on selected date',
+        categ:'lunch',
+
+    },
+    {
+        img:'lunch/fish.jpg',
+        title:'Fish',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:250,
+        tag:'price may vary on selected date',
+        categ:'lunch',
+    },
+    {
+        img:'lunch/food.jpg',
+        title:'Food',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:360,
+        tag:'price may vary on selected date',
+        categ:'lunch',
+    },
+    {
+        img:'lunch/kimchi.jpg',
+        title:'Kimchi',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:480,
+        tag:'price may vary on selected date',
+        categ:'lunch',
+    },
+    {
+        img:'lunch/eating.jpg',
+        title:'Lunch',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:250,
+        tag:'price may vary on selected date',
+        categ:'lunch',
+    },
+    {
+        img:'breakfast/bread.jpg',
+        title:'Bread',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:150,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    },
+    {
+        img:'breakfast/breakfast.jpg',
+        title:'Breakfast',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:250,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    },
+    {
+        img:'breakfast/cereal.jpg',
+        title:'Cereal',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:350,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    },
+    {
+        img:'breakfast/egg.jpg',
+        title:'Egg',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:150,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    },
+    {
+        img:'breakfast/pancakes.jpg',
+        title:'Pancakes',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:130,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    },
+    {
+        img:'breakfast/yogurt.jpg',
+        title:'Bread',
+        para:'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
+        price:180,
+        tag:'price may vary on selected date',
+        categ:'breakfast',
+    }
+]
+
+export default Data;
